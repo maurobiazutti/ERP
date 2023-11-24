@@ -9,4 +9,4 @@ Things you may want to cover:
 
 * Rails version 7.0.8
 
-* System dependencies
+
