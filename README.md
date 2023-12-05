@@ -59,3 +59,6 @@
 - [ ] CNPJ
 - [ ] Contact
 - [ ] Company ID
+
+
+### Inventory
